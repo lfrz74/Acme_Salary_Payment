@@ -16,6 +16,8 @@
 
 4. Run the app
 
+![run_app](https://user-images.githubusercontent.com/30990338/124840986-caa3a780-df51-11eb-9dc6-791a531171d5.png)
+
 ![index](https://user-images.githubusercontent.com/30990338/124840816-6c76c480-df51-11eb-8f48-73656ed35265.PNG)
 
 5. In the following folder, there are several files for testing the app, you can select anyone of these files, but just file: AcmeUpload1.txt is formed well, the other 2 files produce errors
