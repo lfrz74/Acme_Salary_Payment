@@ -1,4 +1,5 @@
 # Acme Salary Payment
-## Prerequisites
-Visual Studio 2019 Community Edition (Free)
-Developed in .Net Core with C#
+## Initial Notes
+
+1. Visual Studio 2019 Community Edition (Free)
+2. Developed in .Net Core with C#
