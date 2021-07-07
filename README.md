@@ -11,8 +11,12 @@
     "AcmeDBConn": "Server=(localdb)\\mssqllocaldb;Database=AcmeDB;Trusted_Connection=True;"
  }
 3. In VS2019, open package manager console and run this command: Update-Database , for creating the DB and inserting the data of the rates per hour in table DayRates, at once in the localDB
-4. Run the app
-5. In the following folder, there are several files for testing the app, you can select anyone of these files, but just file: AcmeUpload1.txt is formed well, the other 2 files produce errors
+
+<h2>All Records of the web site</h2>
+<img src="Acme_Salary_Payment/Acme_Salary_Payment/Images/pm.PNG" width="500" heigth="250">
+
+5. Run the app
+6. In the following folder, there are several files for testing the app, you can select anyone of these files, but just file: AcmeUpload1.txt is formed well, the other 2 files produce errors
 
 ## Running the tests
 1. For running the tests, it's just necessary to change the path, where the files of the folder: TestingFiles are, in your disk drive
