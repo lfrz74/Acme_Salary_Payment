@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Acme_Salary_Payment.DTO.EmployeeDTO>
+
+@{
+    ViewData["Title"] = "Acme Salary Calculator";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>The results are:</p>
+
+@foreach (var item in Model)
+{
+    <div>
+        <ul class="list-group">
+            <li class="list-group-item align-items-center">
+                @item.Employee:
+                <span class="badge badge-primary badge-pill">@item.Amount</span>
+            </li>
+        </ul>
+    </div>
+}
+<div class="row">
+    <div class="form-group">
+        <a asp-controller="Home" asp-action="Index">
+            <input type="button" value="Return to Index" />
+        </a>
+    </div>
+</div>

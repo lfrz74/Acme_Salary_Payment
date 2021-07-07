@@ -1,0 +1,7 @@
+/.vs/
+/Acme_Salary_Payment/bin/
+/Acme_Salary_Payment/obj/
+/Acme_Salary_Payment.Tests/bin/
+/Acme_Salary_Payment.Tests/obj/
+/TestResults/
+.git
